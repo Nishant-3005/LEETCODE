@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
