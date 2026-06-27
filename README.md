@@ -14,10 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
