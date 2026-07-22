@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
