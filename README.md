@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
