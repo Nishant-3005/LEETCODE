@@ -1,22 +1,35 @@
 class Solution {
 public:
+int nextgap(int gap){
+    if(gap<=1)
+    return 0;
+    return (gap/2)+(gap%2);
+}
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-   int left=m-1;
-   int right=0;
-   while(left>=0 && right<n){
-    if(nums1[left]>nums2[right]){
-        swap(nums1[left],nums2[right]);
-        left--;
+   int len=m+n;
+   int gap=nextgap(len);
+   while(gap>0){
+    int left=0;
+    int right=left+gap;
+    while(right<len){
+        if(left<m && right<m){
+            if(nums1[left]>nums1[right])
+            swap(nums1[left],nums1[right]);
+        }
+        else if(left<m && right>=m){
+            if(nums1[left]>nums2[right-m])
+            swap(nums1[left],nums2[right-m]);
+        }
+        else{
+            if(nums2[left-m]>nums2[right-m])
+            swap(nums2[left-m],nums2[right-m]);
+        }
+        left++;
         right++;
     }
-    else{
-        break;
-    }
+    gap=nextgap(gap);
    }
-    sort(nums1.begin(),nums1.begin()+m);
-    sort(nums2.begin(),nums2.end());
-    for(int i=0;i<n;i++){
-        nums1[m+i]=nums2[i];
-    }
+   for(int i=0;i<n;i++)
+   nums1[m+i]=nums2[i];
    }
 };
