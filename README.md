@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
