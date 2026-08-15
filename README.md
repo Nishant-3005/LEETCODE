@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
