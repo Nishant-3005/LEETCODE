@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0704-binary-search) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
