@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -204,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0338-counting-bits) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
