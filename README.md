@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
@@ -228,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
