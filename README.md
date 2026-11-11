@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1207-unique-number-of-occurrences) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nishant-3005/ZERODHA-CLONE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Recursion
 |  |
 | ------- |
